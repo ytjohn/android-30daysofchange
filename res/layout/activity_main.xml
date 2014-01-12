@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+ 
+    <RelativeLayout
+        android:id="@+id/header1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+    
+   	<Spinner
+	    android:id="@+id/days_spinner"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+	    android:layout_width="wrap_content"
+	    android:entries="@array/pages_array"
+	    android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="false"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/header1"
+        android:adjustViewBounds="false"
+        android:contentDescription="@string/day_one"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/introduction" />
+
+    
+
+ 
+</RelativeLayout>

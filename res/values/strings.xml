@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Thirty Days Of Change</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="pages_array">
+        <item>introduction</item>
+        <item>day01</item>
+        <item>day02</item>
+        <item>day03</item>
+    </string-array>
+        <string name="send">send</string>
+        <string name="placeholder">this is a placeholder</string>
+        <string name="day_one">today\'s activity</string>
+        
+</resources>
