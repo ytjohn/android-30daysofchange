@@ -9,6 +9,33 @@
         <item>day01</item>
         <item>day02</item>
         <item>day03</item>
+        <item>day04</item>
+        <item>day05</item>
+        <item>day06</item>
+        <item>day07</item>
+        <item>day08</item>
+        <item>day09</item>
+        <item>day10</item>
+        <item>day11</item>
+        <item>day12</item>
+        <item>day13</item>
+        <item>day14</item>
+        <item>day15</item>
+        <item>day16</item>
+        <item>day17</item>
+        <item>day18</item>
+        <item>day19</item>
+        <item>day20</item>
+        <item>day21</item>
+        <item>day22</item>
+        <item>day23</item>
+        <item>day24</item>
+        <item>day25</item>
+        <item>day26</item>
+        <item>day27</item>
+        <item>day28</item>
+        <item>day29</item>
+        <item>day30</item>
     </string-array>
         <string name="send">send</string>
         <string name="placeholder">this is a placeholder</string>
